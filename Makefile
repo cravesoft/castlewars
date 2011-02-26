@@ -1,4 +1,4 @@
-# PALib Makefile by Scognito and Tom
+﻿# PALib Makefile by Scognito and Tom
 
 #-------------------------------------------------------
 # Please uncomment only one "ARM7_SELECTED" line.
